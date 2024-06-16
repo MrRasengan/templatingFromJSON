@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": "/img/img1.jpeg",
+    "title": "MANGO PEOPLE T-SHIRT",
+    "price": 300,
+    "color": "red",
+    "size": "XL",
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "img": "/img/img2.jpeg",
+    "title": "ELLERY X M'O CAPSULE",
+    "price": 52,
+    "color": "black",
+    "size": "L",
+    "quantity": 1
+  }
+]
